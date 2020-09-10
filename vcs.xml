@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/ajdamon/employee-database.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amar-sinha/employee-time-tracker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Sree\PycharmProjects\9\9" />
+    <option name="cloneParentDir" value="C:\Users\Sree\PycharmProjects\10" />
   </component>
 </application>
